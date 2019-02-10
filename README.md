@@ -29,5 +29,8 @@ Simply delete redmine_plugin_template in your plugins directory.
 ## Licence
 MIT
 
+## Redmine versions
+This plugin was generated redmine ver `4.0.0`.
+
 ## Remark
  - All hooks are not listed in this plugin. If you can check all hooks, see hooks_list http://www.redmine.org/projects/redmine/wiki/Hooks_List
